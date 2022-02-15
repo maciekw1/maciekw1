@@ -4,4 +4,4 @@ I am an aspiring frontend developer driven by passion for technology and highly 
 
 I am an available hire. :white_check_mark:
 
-Checkout my [LinkedIn](https://www.linkedin.com/in/maciej-wojcinski/)
+Checkout my [LinkedIn](https://www.linkedin.com/in/maciej-wojcinski/). :briefcase:
